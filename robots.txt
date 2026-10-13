@@ -1,0 +1,5 @@
+# Platzhalterphase: Das Crawlen bleibt bewusst erlaubt, damit Suchmaschinen
+# das noindex im Kopf der Seiten lesen können. Ein Disallow würde das
+# verhindern — die Adressen könnten dann trotzdem im Index auftauchen.
+User-agent: *
+Allow: /
